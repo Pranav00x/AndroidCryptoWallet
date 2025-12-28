@@ -1,4 +1,4 @@
-# Android Crypto Wallet (EVM)
+# FlowStable Wallet (EVM)
 
 A high-performance, non-custodial EVM wallet for Android built with Jetpack Compose and following strict Brutalist design principles.
 
